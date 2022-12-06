@@ -15,17 +15,12 @@ zeqOS is based off of a **custom** kernel, Which means apps from other OSes such
 - **macOS**
 - **Linux**
 will probably not be supported.
-But, **BoneOS'S** Apps Will Be Supported.
 
 ## Want to contribute to the project?
 It's quite small right now, Any help would be amazing for us!
-Join our Discord server to contribute to the Extension:
-https://discord.gg/qDKCtr2rPE
+Join our Discord server to contribute to the Project:
+https://discord.gg/A3K84sWtNa
 
 Ask what you can do to help! You can try helping with the Kernel, UI, App Ideas, anything!
 
-- This description was written by one of the discord server members, **swordcube**.
-- New OS Extension 16.05 Don't tell Rohan!
-- PS. We got **Kap** working on A LOT OF STUFF 32 bit switch a GUI and Apps.
-- 32 Bit Kernel Released!
-- C++ Code!
+- This description was written by one of the discord server members, **Kap**.
