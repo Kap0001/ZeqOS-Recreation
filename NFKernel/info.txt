@@ -1,0 +1,5 @@
+This is a fork of the Project "ZeqOS EXT" By Vincent .
+
+This uses COSMOS, C#.
+
+Created By "Kap"
