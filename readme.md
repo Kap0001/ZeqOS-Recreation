@@ -23,4 +23,4 @@ https://discord.gg/A3K84sWtNa
 
 Ask what you can do to help! You can try helping with the Kernel, UI, App Ideas, anything!
 
-- This description was written by one of the discord server members, **Kap**.
+- This description was written by the owner, **Kap**.
